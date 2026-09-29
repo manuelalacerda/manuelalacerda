@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=8A2BE2&vCenter=true&width=650&lines=Manuela+de+Lacerda+Soares;manuelalacerda;)](https://git.io/typing-svg)
 
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=8A2BE2&vCenter=true&width=650&lines=Desenvolvedor+Full-Stack;Foco+em+Back-End+e+APIs;Estudante+de+ADS+na+FIAP;Entusiasta+de+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=800&color=8A2BE2&vCenter=true&width=650&lines=Desenvolvedora+Full-Stack;Foco+em+Back-End;Estudante+de+ADS+na+FIAP;)](https://git.io/typing-svg)
 
 ---
 
